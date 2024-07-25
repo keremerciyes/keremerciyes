@@ -28,9 +28,8 @@
 ## 💻 Projects:
 
 Check out some of my recent projects:
-- [Project 1](link-to-project-1)
-- [Project 2](link-to-project-2)
-- [Project 3](link-to-project-3)
+- [Project 1](https://github.com/keremerciyes/Classification-of-Epileptic-Patients)
+
 
 ## 📝 Quote:
 
