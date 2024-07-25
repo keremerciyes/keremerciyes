@@ -1,15 +1,20 @@
-# 👨‍💻 README.md
+# README.md
+
+![Profile Image](your-profile-image-url)
 
 ## 👋 Hello There!
 
-- 🌱 I’m currently working on enhancing my AI development skills
-- 🧠 I’m currently learning advanced machine learning techniques and deep learning frameworks
+- 🌟 I’m currently pursuing my master's degree in Artificial Intelligence in Milan.
+- 🎓 I graduated from Control and Automation Engineering in the Electrical and Electronics Faculty.
+- 🤖 I’m currently working on AI projects and pushing them to GitHub.
+- 📚 I’m enhancing my skills in advanced machine learning techniques and deep learning frameworks.
 
 ## 🌐 Socials:
 
+- [LinkedIn](www.linkedin.com/in/kerem-erciyes)
 
 
-## 🛠 Tech Stack:
+## 🛠️ Tech Stack:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -20,10 +25,14 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 📜 Quote:
+## 💻 Projects:
 
-> "The field of AI is one of the most exciting frontiers in technology today. Its potential to transform industries and improve lives is unparalleled." 
-> 
+Check out some of my recent projects:
+- [Project 1](link-to-project-1)
+- [Project 2](link-to-project-2)
+- [Project 3](link-to-project-3)
 
+## 📝 Quote:
 
+"The field of AI is one of the most exciting frontiers in technology today. Its potential to transform industries and improve lives is unparalleled."
 
