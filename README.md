@@ -25,10 +25,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## 💻 Projects:
-
-Check out some of my recent projects:
-- (https://github.com/keremerciyes)
 
 
 ## 📝 Quote:
