@@ -1,6 +1,5 @@
 # README.md
 
-![Profile Image](your-profile-image-url)
 
 ## 👋 Hello There!
 
