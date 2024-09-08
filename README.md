@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 
-- [LinkedIn]www.linkedin.com/in/kerem-erciyes
+- [LinkedIn] (www.linkedin.com/in/kerem-erciyes)
 
 
 ## 🛠️ Tech Stack:
