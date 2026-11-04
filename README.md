@@ -5,7 +5,7 @@
 ## 👋 Hello There!
 
 - 🎓 I graduated from Master's degree in Artificial Intelligence at the University of Milan 
-- 🎓 Bachelor's degree in Control and Automation Engineering at Istanbul Technical University.
+- 🎓 My Bachelor's degree is from Control and Automation Engineering department at Istanbul Technical University.
 - 🤖 I’m currently working on various agentic AI and ML projects.
 
 ## 🌐 Socials:
