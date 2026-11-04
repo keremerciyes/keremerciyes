@@ -4,10 +4,8 @@
 
 ## 👋 Hello There!
 
-- 🌟 I’m currently pursuing my master's degree in Artificial Intelligence in Milan.
-- 🎓 I graduated from Control and Automation Engineering in the Electrical and Electronics Faculty.
-- 🤖 I’m currently working on AI projects..
-- 📚 I’m enhancing my skills in advanced machine learning techniques and deep learning frameworks.
+- 🎓 I graduated from Master's degree in Artificial Intelligence at the University of Milan and Bachelor's degree in Control and Automation Engineering at Istanbul Technical University.
+- 🤖 I’m currently working on various agentic AI and ML projects.
 
 ## 🌐 Socials:
 
